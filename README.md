@@ -17,7 +17,7 @@ Minhas redes:
     <a href="https://www.linkedin.com/in/rafael-brito-3b863319a//" target="_blank" title="My LinkedIn">LinkedIn</a>
   </li>
 </ul>
-!(https://github-readme-stats.vercel.app/api?username=rafabritu)
+![](https://github-readme-stats.vercel.app/api?username=rafabritu)
 <!--
 **iurygdeoliveira/iurygdeoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
